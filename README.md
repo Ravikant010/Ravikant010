@@ -8,25 +8,9 @@
 A passionate full-stack developer with expertise in various technologies. Always eager to learn and collaborate.
 
 ## Skills
-
-### Frontend
-- React ![React](https://img.shields.io/badge/-React-blue)
-- Next.js ![Next.js](https://img.shields.io/badge/-Next.js-black)
-- Solid.js ![Solid.js](https://img.shields.io/badge/-Solid.js-red)
-
-### Backend
-- MongoDB ![MongoDB](https://img.shields.io/badge/-MongoDB-green)
-- Mongoose ![Mongoose](https://img.shields.io/badge/-Mongoose-yellow)
-- Prisma ![Prisma](https://img.shields.io/badge/-Prisma-blue)
-- PostgreSQL ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-blue)
-- Express.js ![Express.js](https://img.shields.io/badge/-Express.js-blue)
-- BUN ![BUN](https://img.shields.io/badge/-BUN-orange)
-- Elysia ![Elysia](https://img.shields.io/badge/-Elysia-yellow)
-
-### Other
-- TypeScript ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-- Cypress ![Cypress](https://img.shields.io/badge/-Cypress-green)
-- React Native ![React Native](https://img.shields.io/badge/-React%20Native-blue)
+Frontend: ![React](https://img.shields.io/badge/React-blue) ![Next.js](https://img.shields.io/badge/Next.js-black) ![Solid.js](https://img.shields.io/badge/Solid.js-red)
+Backend: ![MongoDB](https://img.shields.io/badge/MongoDB-green) ![Mongoose](https://img.shields.io/badge/Mongoose-yellow) ![Prisma](https://img.shields.io/badge/Prisma-blue) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-blue) ![Express.js](https://img.shields.io/badge/Express.js-blue) ![BUN](https://img.shields.io/badge/BUN-orange) ![Elysia](https://img.shields.io/badge/Elysia-yellow)
+Other: ![TypeScript](https://img.shields.io/badge/TypeScript-blue) ![Cypress](https://img.shields.io/badge/Cypress-green) ![React Native](https://img.shields.io/badge/React%20Native-blue)
 
 ## Projects
 ### Project 1
